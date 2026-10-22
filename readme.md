@@ -97,3 +97,4 @@ lib/arm64-v8a and lib/armeabi-v7a.
 Copyright © 2019-2025 LOVE Development Team
 
 lua-https is licensed under [zLib license](license.txt), same as LÖVE. 
+ 
